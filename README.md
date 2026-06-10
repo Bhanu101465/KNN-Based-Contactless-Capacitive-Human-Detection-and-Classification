@@ -1,1 +1,0 @@
-# KNN-Based-Contactless-Capacitive-Human-Detection-and-Classification
